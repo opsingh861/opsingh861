@@ -10,7 +10,9 @@
 
 - 📫 How to reach me **opsingh861@gmail.com**
 
-  
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
