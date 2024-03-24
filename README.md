@@ -15,6 +15,7 @@
 <a href="https://www.linkedin.com/in/opsingh861/" target="blank"><img align="center" src="https://www.pinclipart.com/picdir/middle/97-971470_linkedin-linkedin-social-media-icons-clipart.png" alt="opsingh861" height="30" width="40" /></a>
 <a href="https://twitter.com/opsingh861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="opsingh861" height="30" width="40" /></a>
 </p>
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
